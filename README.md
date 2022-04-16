@@ -4,5 +4,5 @@
 
 - ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.go`,`.sh`
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**
+- 💬&nbsp;&nbsp; Ping me about **php**, **js**, **go**, **linux**, **bash**
 - 😄&nbsp;&nbsp; Learning all about **Open Source**
